@@ -24,4 +24,4 @@
 
 ## :link: Acesso ao projeto
 
-Você pode acessar o projeto final clicando aqui:
+Você pode acessar o projeto final clicando aqui: https://splendid-quokka-ffc8fc.netlify.app
